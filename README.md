@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib seaborn
 python code.py
 ```
 ### Via Google Colab
-1. Importer le dataset StudentsPerformance.csv depuis votre ordinateur dans Colab.
+1.Importer le dataset StudentsPerformance.csv depuis votre ordinateur dans Colab.
 
 2.Pas besoin d’installer des dépendances, elles sont déjà présentes.
 
